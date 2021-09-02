@@ -1,0 +1,16 @@
+C:\Users\Clara\Desktop\VScode C-\VScode_C--1\meuPrimeirPrograma\bin\Debug\net5.0\meuPrimeirPrograma.exe
+C:\Users\Clara\Desktop\VScode C-\VScode_C--1\meuPrimeirPrograma\bin\Debug\net5.0\meuPrimeirPrograma.deps.json
+C:\Users\Clara\Desktop\VScode C-\VScode_C--1\meuPrimeirPrograma\bin\Debug\net5.0\meuPrimeirPrograma.runtimeconfig.json
+C:\Users\Clara\Desktop\VScode C-\VScode_C--1\meuPrimeirPrograma\bin\Debug\net5.0\meuPrimeirPrograma.runtimeconfig.dev.json
+C:\Users\Clara\Desktop\VScode C-\VScode_C--1\meuPrimeirPrograma\bin\Debug\net5.0\meuPrimeirPrograma.dll
+C:\Users\Clara\Desktop\VScode C-\VScode_C--1\meuPrimeirPrograma\bin\Debug\net5.0\ref\meuPrimeirPrograma.dll
+C:\Users\Clara\Desktop\VScode C-\VScode_C--1\meuPrimeirPrograma\bin\Debug\net5.0\meuPrimeirPrograma.pdb
+C:\Users\Clara\Desktop\VScode C-\VScode_C--1\meuPrimeirPrograma\obj\Debug\net5.0\meuPrimeirPrograma.csproj.AssemblyReference.cache
+C:\Users\Clara\Desktop\VScode C-\VScode_C--1\meuPrimeirPrograma\obj\Debug\net5.0\meuPrimeirPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clara\Desktop\VScode C-\VScode_C--1\meuPrimeirPrograma\obj\Debug\net5.0\meuPrimeirPrograma.AssemblyInfoInputs.cache
+C:\Users\Clara\Desktop\VScode C-\VScode_C--1\meuPrimeirPrograma\obj\Debug\net5.0\meuPrimeirPrograma.AssemblyInfo.cs
+C:\Users\Clara\Desktop\VScode C-\VScode_C--1\meuPrimeirPrograma\obj\Debug\net5.0\meuPrimeirPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Clara\Desktop\VScode C-\VScode_C--1\meuPrimeirPrograma\obj\Debug\net5.0\meuPrimeirPrograma.dll
+C:\Users\Clara\Desktop\VScode C-\VScode_C--1\meuPrimeirPrograma\obj\Debug\net5.0\ref\meuPrimeirPrograma.dll
+C:\Users\Clara\Desktop\VScode C-\VScode_C--1\meuPrimeirPrograma\obj\Debug\net5.0\meuPrimeirPrograma.pdb
+C:\Users\Clara\Desktop\VScode C-\VScode_C--1\meuPrimeirPrograma\obj\Debug\net5.0\meuPrimeirPrograma.genruntimeconfig.cache
